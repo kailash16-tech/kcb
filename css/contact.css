@@ -1,0 +1,55 @@
+body{
+    padding-top: 30px;
+    text-align: center;
+
+}
+nav{
+  margin: 10px 5px;
+  word-spacing: 5px;
+  padding-left: 10px;
+  padding-right:10px;
+
+}
+h2{
+   color:#548CA8;
+
+}
+h3{
+  color:#DDDDDD;
+
+}
+h3:hover{
+  color:black;
+}
+.services{
+  margin-top:55%;
+}
+img{
+  width: 5%;
+}
+.bt{
+  border-radius:5px;
+  background-color:black;
+  width:100px;
+}
+.bt:hover{
+  background-color: gray;
+  opacity:0.5;
+}
+.ft-link{
+  text-decoration: none;
+  color:black;
+}
+.bottom{
+  margin:10% 3px 5px 3px;
+  background-color: #628395;
+}
+.bt-h2{
+  margin: 10px 5px;
+  color:#DDDDDD;
+
+}
+.ft-btn{
+  text-decoration:none;
+
+}

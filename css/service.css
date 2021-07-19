@@ -1,0 +1,31 @@
+body{
+  padding-top: 10px;
+  text-align: center;
+  line-height: 2;
+}
+
+img{
+  margin:30px auto;
+  width: 25%;
+}
+p{
+  margin:20px 20px;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+}
+nav{
+  margin: 10px 5px;
+  word-spacing: 5px;
+  padding-left: 10px;
+  padding-right:10px;
+  position: fixed;
+}
+h2{
+  padding-left: 10px;
+  margin-bottom: 20px;
+  text-align: left;
+  color:#548CA8;
+}
+h3{
+  color:#548CA8;
+}

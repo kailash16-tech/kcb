@@ -1,0 +1,54 @@
+body{
+    padding-top: 10px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+
+}
+nav{
+  margin: 10px 5px;
+  word-spacing: 5px;
+  padding-left: 10px;
+  padding-right:10px;
+
+}
+h2{
+   color:#548CA8;
+
+}
+.name{
+  color:#548CA8;
+}
+.services{
+  margin-top:55%;
+}
+img{
+  width: 5%;
+  margin-right:10px;
+}
+.info{
+   border-style:solid;
+   margin-left: 15%;
+   margin-right: 15%;
+   margin-top:5%;
+   margin-bottom:5%;
+   border-radius:15px;
+   border-width: 5px 5px 100px 5px;
+   width:75%;
+}
+.pic{
+  text-align: center;
+  margin:10px auto;
+  width:50%;
+}
+.links{
+  position:absolute;
+  padding:10px;
+  margin-right:8%;
+}
+.links1{
+  position:absolute;
+  padding:10px;
+  margin-right:8%;
+}
